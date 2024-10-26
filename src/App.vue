@@ -28,7 +28,7 @@ posts.value = data;
 
 <template>
   <input v-model="titleVal" class="bg-purple-400 ml-5 px-4 py-2 rounded-md transition "/>
-  <button @click="Submit" class="bg-pink-200 text-white px-2 pt-5 pb-4 rounded-lg mx-1 my-2 transition duration-500 hover:bg-pink-500">Submittt</button>
+  <button @click="Submit" class="bg-pink-200 text-white px-2 pt-5 pb-4 rounded-lg mx-1 my-2 transition duration-500 hover:bg-pink-500">Submittttt</button>
 
   <ul>
     <li v-for= "post in posts">
